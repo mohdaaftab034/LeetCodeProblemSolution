@@ -34,3 +34,50 @@ public:
         return {};
     }
 };
+
+
+
+// Solution ---> STack
+class Solution {
+public:
+    bool DFS(int node, vector<vector<int>>& adj, vector<int>& state, stack<int>& st) {
+        state[node] = 1; // visiting
+
+        for(int neighbor : adj[node]) {
+            if(state[neighbor] == 1) return false; // cycle detected
+            if(state[neighbor] == 0) {
+                if(!DFS(neighbor, adj, state, st)) return false;
+            }
+        }
+
+        state[node] = 2; // visited
+        st.push(node);
+        return true;
+    }
+
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        for(auto &p : prerequisites) {
+            int course = p[0];
+            int prereq = p[1];
+            adj[prereq].push_back(course); // prereq -> course
+        }
+
+        vector<int> state(numCourses, 0); // 0=unvisited, 1=visiting, 2=visited
+        stack<int> st;
+
+        for(int i = 0; i < numCourses; i++) {
+            if(state[i] == 0) {
+                if(!DFS(i, adj, state, st)) return {}; // cycle detected
+            }
+        }
+
+        vector<int> ans;
+        while(!st.empty()) {
+            ans.push_back(st.top());
+            st.pop();
+        }
+
+        return ans;
+    }
+};
