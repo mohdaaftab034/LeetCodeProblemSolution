@@ -19,3 +19,30 @@ public:
         return ans;
     }
 };
+
+
+// Unordered_map
+class Solution {
+public:
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+        
+        unordered_map<int, int> mp;
+        
+        // Store elements of nums1
+        for(int num : nums1) {
+            mp[num] = 1;   // We just need presence
+        }
+        
+        vector<int> result;
+        
+        // Check in nums2
+        for(int num : nums2) {
+            if(mp.count(num)) {
+                result.push_back(num);
+                mp.erase(num);   // Remove to avoid duplicates
+            }
+        }
+        
+        return result;
+    }
+};
