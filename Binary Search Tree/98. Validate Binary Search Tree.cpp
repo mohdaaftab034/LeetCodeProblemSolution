@@ -34,3 +34,34 @@ public:
 
     }
 };
+
+
+// ------------------Solution -> 2-----------------------
+class Solution {
+public:
+
+    void inorder(TreeNode* root, vector<long> &ans) {
+        //Base case
+        if(root == NULL) {
+            return ;
+        }
+
+        inorder(root -> left, ans);
+        ans.push_back(root -> val);
+        inorder(root -> right, ans);
+    }
+
+    bool isValidBST(TreeNode* root) {
+        vector<long> ans;
+
+        inorder(root, ans);
+
+        for(long i = 0; i < ans.size() -1; i++) {
+            if(ans[i] >= ans[i+1]) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+};
