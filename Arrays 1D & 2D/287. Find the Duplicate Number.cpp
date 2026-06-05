@@ -1,7 +1,6 @@
 // Leetcode Link - https://leetcode.com/problems/find-the-duplicate-number/description
 
 
-
 // Solution ---> Using fast and slow pointer
 
 class Solution {
