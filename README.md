@@ -201,10 +201,12 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -226,4 +228,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
