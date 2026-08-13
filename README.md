@@ -232,4 +232,5 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
