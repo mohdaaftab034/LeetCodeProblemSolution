@@ -239,4 +239,20 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
