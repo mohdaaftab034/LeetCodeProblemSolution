@@ -295,4 +295,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
