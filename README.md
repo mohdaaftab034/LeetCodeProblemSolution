@@ -197,6 +197,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
@@ -205,6 +206,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
