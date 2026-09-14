@@ -211,6 +211,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -250,6 +251,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0058-length-of-last-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -352,4 +354,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
