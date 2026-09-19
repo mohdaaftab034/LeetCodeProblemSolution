@@ -201,6 +201,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -295,6 +296,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 ## Stack
 |  |
@@ -366,4 +368,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
