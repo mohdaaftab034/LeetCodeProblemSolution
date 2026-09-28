@@ -199,6 +199,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0001-two-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
@@ -311,6 +312,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0052-n-queens-ii) |
 ## Algorithm X
@@ -321,6 +323,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
