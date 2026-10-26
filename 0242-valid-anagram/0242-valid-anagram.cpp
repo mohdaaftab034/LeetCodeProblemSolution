@@ -10,21 +10,14 @@ public:
 
         for (int i = 0; i < n; i++) {
             count[s[i] - 'a']++;
+            count[t[i] - 'a']--;
         }
 
-        for (int i = 0; i < m; i++) {
-            if (count[t[i] - 'a'] != 0) {
-                count[t[i] - 'a']--;
+        for (int num : count) {
+            if(num != 0) {
+                return false;
             }
         }
-
-        int sum = 0;
-        for (int i = 0; i < 26; i++) {
-            sum += count[i];
-        }
-
-        if (sum == 0) return true;
-
-        return false;
+        return true;
     }
 };
