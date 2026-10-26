@@ -217,6 +217,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -262,6 +263,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Simulation
@@ -335,6 +337,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0047-permutations-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
