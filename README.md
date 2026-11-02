@@ -201,6 +201,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0016-3sum-closest](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
@@ -234,6 +235,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0009-palindrome-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -403,6 +405,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 ## Recursion
 |  |
