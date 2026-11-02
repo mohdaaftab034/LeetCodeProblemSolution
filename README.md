@@ -322,6 +322,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -330,6 +331,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0101-symmetric-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
@@ -347,6 +349,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -520,4 +523,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
