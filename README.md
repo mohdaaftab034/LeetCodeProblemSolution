@@ -296,6 +296,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0415-add-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0459-repeated-substring-pattern) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
@@ -411,14 +412,17 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
