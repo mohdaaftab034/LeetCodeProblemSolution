@@ -214,6 +214,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -230,6 +231,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
