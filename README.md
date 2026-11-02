@@ -249,6 +249,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0441-arranging-coins) |
+| [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -359,6 +360,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
+| [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 ## Stack
 |  |
 | ------- |
@@ -438,6 +440,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
+| [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -497,4 +500,13 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0401-binary-watch](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
