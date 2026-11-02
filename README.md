@@ -212,6 +212,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0169-majority-element](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -239,6 +240,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0062-unique-paths) |
+| [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
@@ -337,6 +339,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
 ## Stack
 |  |
 | ------- |
