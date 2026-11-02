@@ -212,6 +212,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0169-majority-element](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -359,6 +360,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0217-contains-duplicate](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -376,6 +378,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## String Matching
 |  |
 | ------- |
