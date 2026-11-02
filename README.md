@@ -216,6 +216,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0414-third-maximum-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
+| [0477-total-hamming-distance](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0477-total-hamming-distance) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -250,6 +251,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0415-add-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0441-arranging-coins) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+| [0477-total-hamming-distance](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0477-total-hamming-distance) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -501,6 +503,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0401-binary-watch](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+| [0477-total-hamming-distance](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0477-total-hamming-distance) |
 ## Game Theory
 |  |
 | ------- |
