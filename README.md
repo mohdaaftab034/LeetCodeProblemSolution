@@ -281,6 +281,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
@@ -340,6 +341,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -427,6 +429,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0394-decode-string) |
 ## Manacher
 |  |
 | ------- |
