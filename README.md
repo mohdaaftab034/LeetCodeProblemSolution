@@ -217,6 +217,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0477-total-hamming-distance](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0485-max-consecutive-ones) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
