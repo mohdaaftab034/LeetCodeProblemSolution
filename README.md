@@ -301,6 +301,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0434-number-of-segments-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0482-license-key-formatting) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
