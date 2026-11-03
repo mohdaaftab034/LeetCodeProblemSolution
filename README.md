@@ -221,6 +221,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0495-teemo-attacking](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -387,6 +388,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -551,4 +553,16 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0593-valid-square) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
