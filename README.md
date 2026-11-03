@@ -232,6 +232,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
+| [0850-rectangle-area-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0850-rectangle-area-ii) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -623,6 +624,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0850-rectangle-area-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0850-rectangle-area-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -653,4 +655,12 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
+## Sweep Line
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0850-rectangle-area-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
