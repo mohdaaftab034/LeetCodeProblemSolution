@@ -397,6 +397,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0688-knight-probability-in-chessboard](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0688-knight-probability-in-chessboard) |
 ## Stack
 |  |
 | ------- |
