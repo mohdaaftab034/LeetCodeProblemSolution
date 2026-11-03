@@ -258,6 +258,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -349,6 +350,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0824-goat-latin](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
