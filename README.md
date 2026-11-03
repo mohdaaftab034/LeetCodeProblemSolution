@@ -262,6 +262,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0507-perfect-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0593-valid-square) |
 | [0670-maximum-swap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -342,6 +343,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -351,6 +353,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
+| [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -531,6 +534,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0477-total-hamming-distance) |
+| [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 ## Game Theory
 |  |
 | ------- |
