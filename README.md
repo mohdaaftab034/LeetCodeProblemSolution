@@ -548,6 +548,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0477-total-hamming-distance) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
+| [0693-binary-number-with-alternating-bits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0693-binary-number-with-alternating-bits) |
 ## Game Theory
 |  |
 | ------- |
