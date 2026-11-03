@@ -231,6 +231,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -353,6 +354,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 ## Tree
 |  |
 | ------- |
@@ -415,6 +417,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -535,6 +538,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -585,6 +589,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 ## Game Theory
 |  |
 | ------- |
