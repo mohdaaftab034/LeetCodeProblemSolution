@@ -275,6 +275,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0670-maximum-swap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0728-self-dividing-numbers](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -565,6 +566,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0477-total-hamming-distance](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0477-total-hamming-distance) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Game Theory
 |  |
 | ------- |
@@ -612,4 +614,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
