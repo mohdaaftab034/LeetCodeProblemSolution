@@ -343,6 +343,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0771-jewels-and-stones](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0824-goat-latin) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
