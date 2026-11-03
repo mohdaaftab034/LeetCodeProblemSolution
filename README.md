@@ -242,6 +242,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
+| [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -318,6 +319,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0459-repeated-substring-pattern](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0500-keyboard-row) |
+| [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
@@ -470,6 +472,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
+| [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -566,4 +569,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Design
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
