@@ -220,6 +220,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0485-max-consecutive-ones](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -238,6 +239,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -278,6 +280,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0169-majority-element](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -411,6 +414,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
@@ -469,6 +473,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
 | ------- |
