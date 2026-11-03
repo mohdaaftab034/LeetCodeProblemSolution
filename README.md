@@ -277,6 +277,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0728-self-dividing-numbers](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -418,6 +419,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0688-knight-probability-in-chessboard) |
+| [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
 ## Stack
 |  |
 | ------- |
