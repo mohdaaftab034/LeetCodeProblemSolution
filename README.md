@@ -261,6 +261,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0492-construct-the-rectangle](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0593-valid-square) |
+| [0670-maximum-swap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0670-maximum-swap) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -434,6 +435,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
+| [0670-maximum-swap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0670-maximum-swap) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## String Matching
