@@ -301,6 +301,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0415-add-strings) |
@@ -380,10 +381,12 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -425,6 +428,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## String Matching
