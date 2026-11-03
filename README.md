@@ -284,6 +284,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -609,6 +610,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0593-valid-square](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0836-rectangle-overlap) |
 ## Binary Indexed Tree
 |  |
 | ------- |
