@@ -224,6 +224,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -245,6 +246,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 | [0697-degree-of-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -451,6 +453,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
 ## Greedy
 |  |
 | ------- |
@@ -588,6 +591,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
 ## DP on Trees
 |  |
 | ------- |
@@ -596,4 +600,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
