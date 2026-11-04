@@ -333,6 +333,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
@@ -453,6 +454,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
