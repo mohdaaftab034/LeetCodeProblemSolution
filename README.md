@@ -199,6 +199,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0001-two-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
@@ -242,6 +243,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0169-majority-element) |
@@ -549,6 +551,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
