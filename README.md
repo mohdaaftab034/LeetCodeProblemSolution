@@ -334,6 +334,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
@@ -442,6 +443,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
