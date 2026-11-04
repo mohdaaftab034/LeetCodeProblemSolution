@@ -270,6 +270,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
@@ -364,6 +365,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
@@ -401,6 +403,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
@@ -433,6 +436,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
@@ -609,6 +613,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
