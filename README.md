@@ -268,6 +268,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0009-palindrome-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
@@ -596,6 +597,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0029-divide-two-integers) |
 | [0401-binary-watch](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
