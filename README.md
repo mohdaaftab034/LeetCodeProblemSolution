@@ -236,6 +236,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0850-rectangle-area-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0850-rectangle-area-ii) |
+| [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -461,6 +462,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0688-knight-probability-in-chessboard) |
 | [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
+| [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 ## Stack
 |  |
 | ------- |
@@ -529,6 +531,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
+| [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## String Matching
