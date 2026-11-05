@@ -253,6 +253,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0217-contains-duplicate](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0500-keyboard-row) |
@@ -346,6 +347,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0459-repeated-substring-pattern) |
@@ -573,6 +575,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
