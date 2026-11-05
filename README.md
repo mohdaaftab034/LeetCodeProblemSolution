@@ -242,6 +242,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
 | [0896-monotonic-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0896-monotonic-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -272,6 +273,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -302,6 +304,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0836-rectangle-overlap) |
 | [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -324,10 +327,12 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0169-majority-element](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -743,4 +748,12 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0148-sort-list) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
