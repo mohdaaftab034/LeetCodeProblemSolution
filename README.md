@@ -241,6 +241,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0850-rectangle-area-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0850-rectangle-area-ii) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
+| [0896-monotonic-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0896-monotonic-array) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
