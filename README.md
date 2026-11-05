@@ -244,6 +244,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0896-monotonic-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0896-monotonic-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -275,6 +276,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -379,6 +381,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
