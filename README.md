@@ -397,6 +397,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -413,6 +414,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0687-longest-univalue-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0897-increasing-order-search-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -443,6 +445,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0897-increasing-order-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -490,6 +493,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0897-increasing-order-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -681,6 +685,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0897-increasing-order-search-tree) |
 ## Geometry
 |  |
 | ------- |
