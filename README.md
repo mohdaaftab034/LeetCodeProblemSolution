@@ -233,6 +233,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
+| [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
@@ -479,12 +480,14 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
+| [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
+| [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -514,6 +517,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0414-third-maximum-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
@@ -540,6 +544,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0402-remove-k-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0402-remove-k-digits) |
 | [0670-maximum-swap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
