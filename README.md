@@ -378,6 +378,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0925-long-pressed-name) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
@@ -472,6 +473,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0925-long-pressed-name) |
 ## Dynamic Programming
 |  |
 | ------- |
