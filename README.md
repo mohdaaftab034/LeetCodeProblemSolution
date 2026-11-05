@@ -240,6 +240,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0850-rectangle-area-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0850-rectangle-area-ii) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -299,6 +300,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0836-rectangle-overlap) |
+| [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -520,6 +522,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
+| [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
