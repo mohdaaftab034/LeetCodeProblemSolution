@@ -395,6 +395,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -440,6 +441,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -475,6 +477,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0688-knight-probability-in-chessboard) |
 | [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
+| [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 ## Stack
 |  |
@@ -582,6 +585,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+| [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -608,6 +612,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0002-add-two-numbers](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0394-decode-string) |
+| [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
 ## Manacher
 |  |
 | ------- |
