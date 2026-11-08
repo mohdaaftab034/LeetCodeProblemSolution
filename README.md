@@ -384,6 +384,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
+| [2000-reverse-prefix-of-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2000-reverse-prefix-of-word) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
@@ -479,6 +480,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0925-long-pressed-name) |
+| [2000-reverse-prefix-of-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -510,6 +512,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0897-increasing-order-search-tree) |
+| [2000-reverse-prefix-of-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
