@@ -251,6 +251,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [2012-sum-of-beauty-in-the-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2032-two-out-of-three](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2032-two-out-of-three) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -284,6 +285,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2032-two-out-of-three](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2032-two-out-of-three) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -701,6 +703,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
+| [2032-two-out-of-three](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2032-two-out-of-three) |
 ## Game Theory
 |  |
 | ------- |
