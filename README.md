@@ -246,6 +246,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
+| [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -277,6 +278,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
+| [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -766,4 +768,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Enumeration
+|  |
+| ------- |
+| [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->
