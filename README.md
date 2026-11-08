@@ -249,6 +249,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2012-sum-of-beauty-in-the-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
