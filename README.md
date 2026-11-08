@@ -247,6 +247,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -279,6 +280,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -310,6 +312,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0836-rectangle-overlap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0836-rectangle-overlap) |
 | [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -333,11 +336,13 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
