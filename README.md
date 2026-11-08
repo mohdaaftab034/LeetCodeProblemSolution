@@ -290,6 +290,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2032-two-out-of-three](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -404,6 +405,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
