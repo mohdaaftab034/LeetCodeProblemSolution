@@ -397,6 +397,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [2000-reverse-prefix-of-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2027-minimum-moves-to-convert-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
