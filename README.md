@@ -253,6 +253,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -287,6 +288,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2032-two-out-of-three](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -343,6 +345,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -399,6 +402,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [2027-minimum-moves-to-convert-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
