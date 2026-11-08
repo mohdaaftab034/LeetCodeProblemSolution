@@ -252,6 +252,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2032-two-out-of-three) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -563,6 +564,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
@@ -592,6 +594,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2027-minimum-moves-to-convert-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2864-maximum-odd-binary-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## String Matching
@@ -790,4 +793,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
