@@ -423,6 +423,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
@@ -471,6 +472,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0100-same-tree) |
@@ -516,6 +518,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0062-unique-paths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
@@ -554,6 +557,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0051-n-queens](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0077-combinations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0401-binary-watch) |
 ## Algorithm X
 |  |
@@ -734,6 +738,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
