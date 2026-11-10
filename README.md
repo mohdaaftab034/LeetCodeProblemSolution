@@ -375,6 +375,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0091-decode-ways](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
@@ -532,6 +533,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0396-rotate-function) |
@@ -569,6 +571,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0052-n-queens-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0401-binary-watch) |
 ## Algorithm X
 |  |
