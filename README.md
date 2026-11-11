@@ -277,6 +277,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 | [0697-degree-of-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0697-degree-of-an-array) |
@@ -392,6 +393,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0459-repeated-substring-pattern](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0567-permutation-in-string) |
 | [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
@@ -517,6 +519,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0148-sort-list](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
@@ -677,6 +680,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
