@@ -232,6 +232,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0697-degree-of-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
+| [0724-find-pivot-index](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
@@ -363,6 +364,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
