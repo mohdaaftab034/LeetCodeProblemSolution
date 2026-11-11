@@ -206,6 +206,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0047-permutations-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
@@ -415,6 +416,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0495-teemo-attacking) |
@@ -678,6 +680,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0036-valid-sudoku](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
