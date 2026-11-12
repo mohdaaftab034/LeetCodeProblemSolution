@@ -237,6 +237,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
+| [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -292,6 +293,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0692-top-k-frequent-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
+| [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0791-custom-sort-string) |
@@ -413,6 +415,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0791-custom-sort-string) |
@@ -483,6 +486,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0687-longest-univalue-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0687-longest-univalue-path) |
+| [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0897-increasing-order-search-tree) |
@@ -499,6 +503,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
+| [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -629,6 +634,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0414-third-maximum-number](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0791-custom-sort-string) |
@@ -747,6 +753,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
