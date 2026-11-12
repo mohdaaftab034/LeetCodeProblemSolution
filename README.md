@@ -234,6 +234,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0697-degree-of-an-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0724-find-pivot-index) |
@@ -571,6 +572,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0688-knight-probability-in-chessboard) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 | [0838-push-dominoes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0838-push-dominoes) |
@@ -606,6 +608,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0401-binary-watch) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Algorithm X
 |  |
 | ------- |
@@ -702,6 +705,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
 ## Brute-Force Search
 |  |
@@ -784,6 +788,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0477-total-hamming-distance](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0477-total-hamming-distance) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -796,6 +801,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Search Tree
 |  |
 | ------- |
