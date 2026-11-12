@@ -415,6 +415,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0830-positions-of-large-groups) |
+| [0838-push-dominoes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
@@ -540,6 +541,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
+| [0838-push-dominoes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
@@ -566,6 +568,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0688-knight-probability-in-chessboard](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0688-knight-probability-in-chessboard) |
 | [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
+| [0838-push-dominoes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0838-push-dominoes) |
 | [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 ## Stack
