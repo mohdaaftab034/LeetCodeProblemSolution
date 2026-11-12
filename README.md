@@ -240,6 +240,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
+| [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
@@ -288,6 +289,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0705-design-hashset](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0771-jewels-and-stones) |
+| [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -341,6 +343,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0441-arranging-coins](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -403,6 +406,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
 | [0748-shortest-completing-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0771-jewels-and-stones) |
+| [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0824-goat-latin) |
@@ -556,6 +560,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0688-knight-probability-in-chessboard) |
 | [0788-rotated-digits](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 | [0894-all-possible-full-binary-trees](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0894-all-possible-full-binary-trees) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 ## Stack
@@ -609,6 +614,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0594-longest-harmonious-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
+| [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 | [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -672,6 +678,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0677-map-sum-pairs](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0677-map-sum-pairs) |
+| [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 ## Memoization
 |  |
 | ------- |
