@@ -258,6 +258,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1995-count-special-quadruplets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1995-count-special-quadruplets) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -510,6 +511,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
@@ -738,6 +740,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Recursion
 |  |
