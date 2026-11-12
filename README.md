@@ -244,6 +244,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
+| [0826-most-profit-assigning-work](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0850-rectangle-area-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0850-rectangle-area-ii) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -345,6 +346,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0704-binary-search](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
+| [0826-most-profit-assigning-work](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0826-most-profit-assigning-work) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -536,6 +538,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0567-permutation-in-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
+| [0826-most-profit-assigning-work](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
@@ -618,6 +621,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
+| [0826-most-profit-assigning-work](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0826-most-profit-assigning-work) |
 | [0891-sum-of-subsequence-widths](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0891-sum-of-subsequence-widths) |
 | [0922-sort-array-by-parity-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0922-sort-array-by-parity-ii) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -652,6 +656,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0670-maximum-swap](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0826-most-profit-assigning-work) |
 | [1024-video-stitching](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1024-video-stitching) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
