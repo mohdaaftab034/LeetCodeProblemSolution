@@ -201,6 +201,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0011-container-with-most-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
@@ -514,6 +515,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0016-3sum-closest](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0125-valid-palindrome) |
