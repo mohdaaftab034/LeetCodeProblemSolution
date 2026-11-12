@@ -432,6 +432,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0917-reverse-only-letters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
+| [1078-occurrences-after-bigram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1078-occurrences-after-bigram) |
 | [2000-reverse-prefix-of-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
