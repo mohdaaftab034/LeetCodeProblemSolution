@@ -467,6 +467,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0226-invert-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -486,6 +487,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0226-invert-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -507,6 +509,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0226-invert-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
@@ -530,6 +533,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0226-invert-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
