@@ -214,6 +214,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0057-insert-interval](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -616,6 +617,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0051-n-queens](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0401-binary-watch) |
@@ -799,6 +801,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0464-can-i-win) |
