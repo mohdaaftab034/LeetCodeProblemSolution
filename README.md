@@ -251,6 +251,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0807-max-increase-to-keep-city-skyline](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0812-largest-triangle-area](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0821-shortest-distance-to-a-character) |
+| [0822-card-flipping-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0822-card-flipping-game) |
 | [0826-most-profit-assigning-work](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0849-maximize-distance-to-closest-person](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0849-maximize-distance-to-closest-person) |
@@ -305,6 +306,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0791-custom-sort-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0804-unique-morse-code-words) |
+| [0822-card-flipping-game](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0822-card-flipping-game) |
 | [0859-buddy-strings](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
