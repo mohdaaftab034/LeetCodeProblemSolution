@@ -269,6 +269,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2057-smallest-index-with-equal-value) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -780,6 +781,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -792,6 +794,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0347-top-k-frequent-elements](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -913,4 +916,8 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Shortest Path
+|  |
+| ------- |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 <!---LeetCode Topics End-->
