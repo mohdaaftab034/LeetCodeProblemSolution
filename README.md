@@ -234,6 +234,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0704-binary-search) |
@@ -496,6 +497,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
 | [0687-longest-univalue-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -515,6 +517,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
+| [0695-max-area-of-island](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -752,6 +755,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0054-spiral-matrix](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0832-flipping-an-image) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -774,6 +778,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
