@@ -477,6 +477,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0226-invert-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -498,6 +499,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0672-bulb-switcher-ii) |
@@ -545,6 +547,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0226-invert-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -885,6 +888,7 @@ If you want, I can also make a **much longer** version of this README with exten
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0687-longest-univalue-path) |
 ## Data Stream
 |  |
