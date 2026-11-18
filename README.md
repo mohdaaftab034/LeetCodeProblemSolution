@@ -447,6 +447,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0925-long-pressed-name](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0929-unique-email-addresses) |
 | [1078-occurrences-after-bigram](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1078-occurrences-after-bigram) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -629,6 +630,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0769-max-chunks-to-make-sorted](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0897-increasing-order-search-tree) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -954,4 +956,8 @@ If you want, I can also make a **much longer** version of this README with exten
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
