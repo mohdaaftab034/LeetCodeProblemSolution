@@ -285,6 +285,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0012-integer-to-roman](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0141-linked-list-cycle) |
@@ -406,6 +407,7 @@ If you want, I can also make a **much longer** version of this README with exten
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0097-interleaving-string) |
@@ -761,6 +763,7 @@ If you want, I can also make a **much longer** version of this README with exten
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mohdaaftab034/LeetCodeProblemSolution/tree/master/0567-permutation-in-string) |
